@@ -1,5 +1,5 @@
 # replacestr
-replacestr is a commandline tool for finding and replacing strings in files and console input
+replacestr is a console application for finding and replacing strings in files and console input
 
 # params
 
