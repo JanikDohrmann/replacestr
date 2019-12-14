@@ -3,17 +3,17 @@ replacestr is a commandline tool for finding and replacing strings in files and 
 
 # params
 
-replacestr <mode> <match> <replacement> <file>
+replacestr `<mode>` `<match>` `<replacement>` `<file>`
 
-mode
-  -c    console input
-  -f    file input
+* `<mode>` 
+  * -c    console input
+  * -f    file input
 
-match
-  The string that you want to replace
+* `<match>`
+  * The string that you want to replace
   
-replacement
-  The string that you want to replace the match with
+* `<replacement>`
+  * The string that you want to replace the match with
   
-file
-  The file from which replacestr reads in file mode
+* `<file>`
+  * The file from which replacestr reads in file mode
